@@ -1,0 +1,5 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+backend/data/chroma_bak/
